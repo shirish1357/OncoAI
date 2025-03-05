@@ -1,9 +1,6 @@
 # OncoAI
 OncoAI: An AI-Powered Oncology Support Assistant
 
-# OncoAI
-OncoAI: An AI-Powered Oncology Support Assistant
-
 ## Overview
 
 OncoAI is an interactive project that leverages AI, a Jupyter Notebook, and a Gradio web interface to provide general oncology support. The assistant offers information on various cancer types, treatment modalities, management of common side effects, support resources, and treatment overviews.
