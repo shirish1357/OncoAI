@@ -29,9 +29,13 @@ OncoAI is an interactive project that leverages AI, a Jupyter Notebook, and a Gr
 - [OpenAI Python SDK](https://github.com/openai/openai-python) for integrating with the OpenAI API
 - Other dependencies can be installed via `requirements.txt`
 
-### Setup
+### Contributing
+Contributions are welcome! If you have suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/OncoAI.git
-   cd OncoAI
+### License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+### Acknowledgments
+Thanks to the OpenAI team for their powerful API.
+Special thanks to Ed Donner for his invaluable contributions and support – [ed-donner](https://github.com/ed-donner).
+Special thanks to the Gradio community for providing an excellent web interface library.
